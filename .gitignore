@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+build/
+install/
+log/
+data/*
+!data/README.md
+*.bag
+*.db3
+.vscode/
+.idea/
